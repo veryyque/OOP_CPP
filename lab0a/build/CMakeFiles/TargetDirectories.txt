@@ -1,6 +1,0 @@
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/CMakeFiles/lab0a.dir
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/CMakeFiles/edit_cache.dir
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/CMakeFiles/rebuild_cache.dir
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/src/module1/CMakeFiles/module1.dir
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/src/module1/CMakeFiles/edit_cache.dir
-/Users/veronikamoskaluk/Documents/ООП 3 семестр/lab0a/build/src/module1/CMakeFiles/rebuild_cache.dir
