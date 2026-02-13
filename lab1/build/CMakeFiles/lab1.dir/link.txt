@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab1.dir/main.cpp.o CMakeFiles/lab1.dir/BitArray.cpp.o -o lab1
