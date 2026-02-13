@@ -1,9 +1,0 @@
-*.o
-*.exe
-*.out
-*.app
-.DS_Store
-build/
-.vscode/
-.idea/
-cmake-build-*/
