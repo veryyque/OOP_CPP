@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/veronikamoskaluk/Documents/\u041e\u041e\u041f 3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/lab1/build/cmake_install.cmake",
+		"/Users/veronikamoskaluk/Documents/\u041e\u041e\u041f 3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/lab1/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/veronikamoskaluk/Documents/\u041e\u041e\u041f 3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/lab1/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/veronikamoskaluk/Documents/\u041e\u041e\u041f 3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/lab1/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
